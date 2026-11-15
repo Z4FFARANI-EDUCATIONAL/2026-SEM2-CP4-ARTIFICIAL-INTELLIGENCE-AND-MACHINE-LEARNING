@@ -1,11 +1,5 @@
 # Detecção de Fraudes · Inteligência Artificial & Machine Learning
 
-| Integrante | RM |
-|---|---|
-| [Guilherme Santos Nunes](https://github.com/sannunez) | RM558989 |
-| [Kaique Zaffarani](https://github.com/Z4ffarani) | RM556677 |
-| [Pedro Josué Pereira Almeida](https://github.com/Pedro-Josue) | RM554913 |
-
 Checkpoint 4 · 2026.2 · Engenharia de Software · FIAP
 
 ---
